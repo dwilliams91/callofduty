@@ -1,0 +1,186 @@
+[
+    {
+        "model": "callofdutyapi.stat",
+        "pk": 0,
+        "fields": {
+            "name": "name",
+            "unit": "NULL"
+        }
+    },
+    {
+        "model": "callofdutyapi.stat",
+        "pk": 1,
+        "fields": {
+            "name": "damage",
+            "unit": "NULL"
+        }
+    },
+    {
+        "model": "callofdutyapi.stat",
+        "pk": 2,
+        "fields": {
+            "name": "effective_damage_range",
+            "unit": "NULL"
+        }
+    },
+    {
+        "model": "callofdutyapi.stat",
+        "pk": 3,
+        "fields": {
+            "name": "fire_rate",
+            "unit": "NULL"
+        }
+    },
+    {
+        "model": "callofdutyapi.stat",
+        "pk": 4,
+        "fields": {
+            "name": "vital_damage",
+            "unit": "NULL"
+        }
+    },
+    {
+        "model": "callofdutyapi.stat",
+        "pk": 5,
+        "fields": {
+            "name": "bullet_velocity",
+            "unit": "NULL"
+        }
+    },
+    {
+        "model": "callofdutyapi.stat",
+        "pk": 6,
+        "fields": {
+            "name": "vehicle_damage",
+            "unit": "NULL"
+        }
+    },
+    {
+        "model": "callofdutyapi.stat",
+        "pk": 7,
+        "fields": {
+            "name": "movement_speed",
+            "unit": "NULL"
+        }
+    },
+    {
+        "model": "callofdutyapi.stat",
+        "pk": 8,
+        "fields": {
+            "name": "ads_movement_speed",
+            "unit": "NULL"
+        }
+    },
+    {
+        "model": "callofdutyapi.stat",
+        "pk": 9,
+        "fields": {
+            "name": "sprint_to_fire",
+            "unit": "NULL"
+        }
+    },
+    {
+        "model": "callofdutyapi.stat",
+        "pk": 10,
+        "fields": {
+            "name": "ads_time",
+            "unit": "NULL"
+        }
+    },
+    {
+        "model": "callofdutyapi.stat",
+        "pk": 11,
+        "fields": {
+            "name": "verticle_recoil",
+            "unit": "NULL"
+        }
+    },
+    {
+        "model": "callofdutyapi.stat",
+        "pk": 12,
+        "fields": {
+            "name": "horizontal_recoil",
+            "unit": "NULL"
+        }
+    },
+    {
+        "model": "callofdutyapi.stat",
+        "pk": 13,
+        "fields": {
+            "name": "centering_speed",
+            "unit": "NULL"
+        }
+    },
+    {
+        "model": "callofdutyapi.stat",
+        "pk": 14,
+        "fields": {
+            "name": "idle_sway",
+            "unit": "NULL"
+        }
+    },
+    {
+        "model": "callofdutyapi.stat",
+        "pk": 15,
+        "fields": {
+            "name": "flinch_resistence",
+            "unit": "NULL"
+        }
+    },
+    {
+        "model": "callofdutyapi.stat",
+        "pk": 16,
+        "fields": {
+            "name": "hip_fire",
+            "unit": "NULL"
+        }
+    },
+    {
+        "model": "callofdutyapi.stat",
+        "pk": 17,
+        "fields": {
+            "name": "reload_quickness",
+            "unit": "NULL"
+        }
+    },
+    {
+        "model": "callofdutyapi.stat",
+        "pk": 18,
+        "fields": {
+            "name": "magazine_ammo_capacity",
+            "unit": "NULL"
+        }
+    },
+    {
+        "model": "callofdutyapi.stat",
+        "pk": 19,
+        "fields": {
+            "name": "starting_ammo",
+            "unit": "NULL"
+        }
+    },
+    {
+        "model": "callofdutyapi.stat",
+        "pk": 20,
+        "fields": {
+            "name": "ammo_capacity",
+            "unit": "NULL"
+        }
+    },
+    {
+        "model": "callofdutyapi.stat",
+        "pk": 21,
+        "fields": {
+            "name": "penetration",
+            "unit": "NULL"
+        }
+    },
+    {
+        "model": "callofdutyapi.stat",
+        "pk": 22,
+        "fields": {
+            "name": "concealment",
+            "unit": "NULL"
+        }
+    }
+]

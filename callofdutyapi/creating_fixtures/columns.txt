@@ -1,0 +1,162 @@
+{
+    "model":"callofdutyapi.stat,
+    "pk":" 0,
+    "field":{
+    "name":""name,
+    "unit":"NULL
+    }
+    {
+    "model":"callofdutyapi.stat,
+    "pk":" 1,
+    "field":{
+    "name":"Damage,
+    "unit":"NULL
+    }
+    {
+    "model":"callofdutyapi.stat,
+    "pk":" 2,
+    "field":{
+    "name":"Effective damage range,
+    "unit":"NULL
+    }
+    {
+    "model":"callofdutyapi.stat,
+    "pk":" 3,
+    "field":{
+    "name":"Fire rate,
+    "unit":"NULL
+    }
+    {
+    "model":"callofdutyapi.stat,
+    "pk":" 4,
+    "field":{
+    "name":"vital damage,
+    "unit":"NULL
+    }
+    {
+    "model":"callofdutyapi.stat,
+    "pk":" 5,
+    "field":{
+    "name":"bullet velocity,
+    "unit":"NULL
+    }
+    {
+    "model":"callofdutyapi.stat,
+    "pk":" 6,
+    "field":{
+    "name":"vehicle damage,
+    "unit":"NULL
+    }
+    {
+    "model":"callofdutyapi.stat,
+    "pk":" 7,
+    "field":{
+    "name":"movement speed,
+    "unit":"NULL
+    }
+    {
+    "model":"callofdutyapi.stat,
+    "pk":" 8,
+    "field":{
+    "name":"ADS walking spped,
+    "unit":"NULL
+    }
+    {
+    "model":"callofdutyapi.stat,
+    "pk":" 9,
+    "field":{
+    "name":"sprint to file time,
+    "unit":"NULL
+    }
+    {
+    "model":"callofdutyapi.stat,
+    "pk":" 10,
+    "field":{
+    "name":"ADS time,
+    "unit":"NULL
+    }
+    {
+    "model":"callofdutyapi.stat,
+    "pk":" 11,
+    "field":{
+    "name":"vertical recoil,
+    "unit":"NULL
+    }
+    {
+    "model":"callofdutyapi.stat,
+    "pk":" 12,
+    "field":{
+    "name":"horizontal recoil,
+    "unit":"NULL
+    }
+    {
+    "model":"callofdutyapi.stat,
+    "pk":" 13,
+    "field":{
+    "name":"centering speed,
+    "unit":"NULL
+    }
+    {
+    "model":"callofdutyapi.stat,
+    "pk":" 14,
+    "field":{
+    "name":"Idle sway control,
+    "unit":"NULL
+    }
+    {
+    "model":"callofdutyapi.stat,
+    "pk":" 15,
+    "field":{
+    "name":"flinch resistance,
+    "unit":"NULL
+    }
+    {
+    "model":"callofdutyapi.stat,
+    "pk":" 16,
+    "field":{
+    "name":"hip fire accuracy,
+    "unit":"NULL
+    }
+    {
+    "model":"callofdutyapi.stat,
+    "pk":" 17,
+    "field":{
+    "name":"reload quickness,
+    "unit":"NULL
+    }
+    {
+    "model":"callofdutyapi.stat,
+    "pk":" 18,
+    "field":{
+    "name":"magazine ammo capacity,
+    "unit":"NULL
+    }
+    {
+    "model":"callofdutyapi.stat,
+    "pk":" 19,
+    "field":{
+    "name":"starting ammo,
+    "unit":"NULL
+    }
+    {
+    "model":"callofdutyapi.stat,
+    "pk":" 20,
+    "field":{
+    "name":"ammo capacity,
+    "unit":"NULL
+    }
+    {
+    "model":"callofdutyapi.stat,
+    "pk":" 21,
+    "field":{
+    "name":"penetration,
+    "unit":"NULL
+    }
+    {
+    "model":"callofdutyapi.stat,
+    "pk":" 22,
+    "field":{
+    "name":"concealment,
+    "unit":"NULL
+    }
+    

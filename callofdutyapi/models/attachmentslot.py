@@ -1,4 +1,11 @@
 from django.db import models
 
-class Attachment(models.Model):
+
+class AttachmentSlot(models.Model):
     name=models.CharField(max_length=50)
+    createdclass_id=models.ForeignKey("CreatedClass")
+    attachment_id=models.ForeignKey("Attachment")
+
+#%%
+import pandas as pd
+# %%
