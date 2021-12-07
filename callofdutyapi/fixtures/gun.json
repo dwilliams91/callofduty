@@ -1,0 +1,18 @@
+[
+    {
+        "model":"callofdutyapi.gun",
+        "pk":1,
+        "fields":{
+            "name":"STG-42",
+            "gun_type":"Assault Rifle"
+        }
+    },
+    {
+        "model":"callofdutyapi.gun",
+        "pk":2,
+        "fields":{
+            "name":"MP-40",
+            "gun_type":"SMG"
+        }
+    }
+]
