@@ -1,6 +1,6 @@
 from django.db import models
 
 class GunStat(models.Model):
-    gun_id=models.ForeignKey("Gun")
-    stat_id=models.CharField("Stat")
-    value=models.DecimalField(max_digits=6)
+    gun_id=models.ForeignKey("Gun", on_delete=models.CASCADE)
+    stat_id=models.ForeignKey("Stat", on_delete=models.CASCADE)
+    value=models.DecimalField(max_digits=10, decimal_places=4)

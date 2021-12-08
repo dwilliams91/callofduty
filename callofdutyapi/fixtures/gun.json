@@ -4,7 +4,7 @@
         "pk": 1,
         "fields": {
             "name": "STG",
-            "type": "Assault Rifle"
+            "gun_type": "Assault Rifle"
         }
     },
     {
@@ -12,7 +12,7 @@
         "pk": 2,
         "fields": {
             "name": "Automation",
-            "type": "Assault Rifle"
+            "gun_type": "Assault Rifle"
         }
     },
     {
@@ -20,7 +20,7 @@
         "pk": 3,
         "fields": {
             "name": "ITA Burst",
-            "type": "Assault Rifle"
+            "gun_type": "Assault Rifle"
         }
     },
     {
@@ -28,7 +28,7 @@
         "pk": 4,
         "fields": {
             "name": "BAR",
-            "type": "Assault Rifle"
+            "gun_type": "Assault Rifle"
         }
     },
     {
@@ -36,7 +36,7 @@
         "pk": 5,
         "fields": {
             "name": "AS44",
-            "type": "Assault Rifle"
+            "gun_type": "Assault Rifle"
         }
     },
     {
@@ -44,7 +44,7 @@
         "pk": 6,
         "fields": {
             "name": "NZ-41",
-            "type": "Assault Rifle"
+            "gun_type": "Assault Rifle"
         }
     },
     {
@@ -52,7 +52,7 @@
         "pk": 7,
         "fields": {
             "name": "Volt",
-            "type": "Assault Rifle"
+            "gun_type": "Assault Rifle"
         }
     },
     {
@@ -60,7 +60,7 @@
         "pk": 8,
         "fields": {
             "name": "MP40",
-            "type": "SMG"
+            "gun_type": "SMG"
         }
     },
     {
@@ -68,7 +68,7 @@
         "pk": 9,
         "fields": {
             "name": "Sten",
-            "type": "SMG"
+            "gun_type": "SMG"
         }
     },
     {
@@ -76,7 +76,7 @@
         "pk": 10,
         "fields": {
             "name": "M1928",
-            "type": "SMG"
+            "gun_type": "SMG"
         }
     },
     {
@@ -84,7 +84,7 @@
         "pk": 11,
         "fields": {
             "name": "Owen",
-            "type": "SMG"
+            "gun_type": "SMG"
         }
     },
     {
@@ -92,7 +92,7 @@
         "pk": 12,
         "fields": {
             "name": "Type 100",
-            "type": "SMG"
+            "gun_type": "SMG"
         }
     },
     {
@@ -100,7 +100,7 @@
         "pk": 13,
         "fields": {
             "name": "PPSH",
-            "type": "SMG"
+            "gun_type": "SMG"
         }
     },
     {
@@ -108,7 +108,7 @@
         "pk": 14,
         "fields": {
             "name": "MG42",
-            "type": "LMG"
+            "gun_type": "LMG"
         }
     },
     {
@@ -116,7 +116,7 @@
         "pk": 15,
         "fields": {
             "name": "DP27",
-            "type": "LMG"
+            "gun_type": "LMG"
         }
     },
     {
@@ -124,7 +124,7 @@
         "pk": 16,
         "fields": {
             "name": "Type 11",
-            "type": "LMG"
+            "gun_type": "LMG"
         }
     },
     {
@@ -132,7 +132,7 @@
         "pk": 17,
         "fields": {
             "name": "Bren",
-            "type": "LMG"
+            "gun_type": "LMG"
         }
     },
     {
@@ -140,7 +140,7 @@
         "pk": 18,
         "fields": {
             "name": "M1 Garande",
-            "type": "Marksman Rifle"
+            "gun_type": "Marksman Rifle"
         }
     },
     {
@@ -148,7 +148,7 @@
         "pk": 19,
         "fields": {
             "name": "SVT-40",
-            "type": "Marksman Rifle"
+            "gun_type": "Marksman Rifle"
         }
     },
     {
@@ -156,7 +156,7 @@
         "pk": 20,
         "fields": {
             "name": "G-43",
-            "type": "Marksman Rifle"
+            "gun_type": "Marksman Rifle"
         }
     },
     {
@@ -164,7 +164,7 @@
         "pk": 21,
         "fields": {
             "name": "Type 99",
-            "type": "Sniper Rifle"
+            "gun_type": "Sniper Rifle"
         }
     },
     {
@@ -172,7 +172,7 @@
         "pk": 22,
         "fields": {
             "name": "3-line",
-            "type": "Sniper Rifle"
+            "gun_type": "Sniper Rifle"
         }
     },
     {
@@ -180,7 +180,7 @@
         "pk": 23,
         "fields": {
             "name": "Kar98",
-            "type": "Sniper Rifle"
+            "gun_type": "Sniper Rifle"
         }
     },
     {
@@ -188,7 +188,7 @@
         "pk": 24,
         "fields": {
             "name": "Einhorn Revolving",
-            "type": "Shotgun"
+            "gun_type": "Shotgun"
         }
     },
     {
@@ -196,7 +196,7 @@
         "pk": 25,
         "fields": {
             "name": "Combat Shotgun",
-            "type": "Shotgun"
+            "gun_type": "Shotgun"
         }
     },
     {
@@ -204,7 +204,7 @@
         "pk": 26,
         "fields": {
             "name": "GraceyAuto",
-            "type": "Shotgun"
+            "gun_type": "Shotgun"
         }
     },
     {
@@ -212,7 +212,7 @@
         "pk": 27,
         "fields": {
             "name": "Double Barrel",
-            "type": "Shotgun"
+            "gun_type": "Shotgun"
         }
     }
 ]
