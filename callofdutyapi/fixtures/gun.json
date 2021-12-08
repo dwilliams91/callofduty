@@ -1,18 +1,218 @@
 [
     {
-        "model":"callofdutyapi.gun",
-        "pk":1,
-        "fields":{
-            "name":"STG-42",
-            "gun_type":"Assault Rifle"
+        "model": "callofdutyapi.gun",
+        "pk": 1,
+        "fields": {
+            "name": "STG",
+            "type": "Assault Rifle"
         }
     },
     {
-        "model":"callofdutyapi.gun",
-        "pk":2,
-        "fields":{
-            "name":"MP-40",
-            "gun_type":"SMG"
+        "model": "callofdutyapi.gun",
+        "pk": 2,
+        "fields": {
+            "name": "Automation",
+            "type": "Assault Rifle"
+        }
+    },
+    {
+        "model": "callofdutyapi.gun",
+        "pk": 3,
+        "fields": {
+            "name": "ITA Burst",
+            "type": "Assault Rifle"
+        }
+    },
+    {
+        "model": "callofdutyapi.gun",
+        "pk": 4,
+        "fields": {
+            "name": "BAR",
+            "type": "Assault Rifle"
+        }
+    },
+    {
+        "model": "callofdutyapi.gun",
+        "pk": 5,
+        "fields": {
+            "name": "AS44",
+            "type": "Assault Rifle"
+        }
+    },
+    {
+        "model": "callofdutyapi.gun",
+        "pk": 6,
+        "fields": {
+            "name": "NZ-41",
+            "type": "Assault Rifle"
+        }
+    },
+    {
+        "model": "callofdutyapi.gun",
+        "pk": 7,
+        "fields": {
+            "name": "Volt",
+            "type": "Assault Rifle"
+        }
+    },
+    {
+        "model": "callofdutyapi.gun",
+        "pk": 8,
+        "fields": {
+            "name": "MP40",
+            "type": "SMG"
+        }
+    },
+    {
+        "model": "callofdutyapi.gun",
+        "pk": 9,
+        "fields": {
+            "name": "Sten",
+            "type": "SMG"
+        }
+    },
+    {
+        "model": "callofdutyapi.gun",
+        "pk": 10,
+        "fields": {
+            "name": "M1928",
+            "type": "SMG"
+        }
+    },
+    {
+        "model": "callofdutyapi.gun",
+        "pk": 11,
+        "fields": {
+            "name": "Owen",
+            "type": "SMG"
+        }
+    },
+    {
+        "model": "callofdutyapi.gun",
+        "pk": 12,
+        "fields": {
+            "name": "Type 100",
+            "type": "SMG"
+        }
+    },
+    {
+        "model": "callofdutyapi.gun",
+        "pk": 13,
+        "fields": {
+            "name": "PPSH",
+            "type": "SMG"
+        }
+    },
+    {
+        "model": "callofdutyapi.gun",
+        "pk": 14,
+        "fields": {
+            "name": "MG42",
+            "type": "LMG"
+        }
+    },
+    {
+        "model": "callofdutyapi.gun",
+        "pk": 15,
+        "fields": {
+            "name": "DP27",
+            "type": "LMG"
+        }
+    },
+    {
+        "model": "callofdutyapi.gun",
+        "pk": 16,
+        "fields": {
+            "name": "Type 11",
+            "type": "LMG"
+        }
+    },
+    {
+        "model": "callofdutyapi.gun",
+        "pk": 17,
+        "fields": {
+            "name": "Bren",
+            "type": "LMG"
+        }
+    },
+    {
+        "model": "callofdutyapi.gun",
+        "pk": 18,
+        "fields": {
+            "name": "M1 Garande",
+            "type": "Marksman Rifle"
+        }
+    },
+    {
+        "model": "callofdutyapi.gun",
+        "pk": 19,
+        "fields": {
+            "name": "SVT-40",
+            "type": "Marksman Rifle"
+        }
+    },
+    {
+        "model": "callofdutyapi.gun",
+        "pk": 20,
+        "fields": {
+            "name": "G-43",
+            "type": "Marksman Rifle"
+        }
+    },
+    {
+        "model": "callofdutyapi.gun",
+        "pk": 21,
+        "fields": {
+            "name": "Type 99",
+            "type": "Sniper Rifle"
+        }
+    },
+    {
+        "model": "callofdutyapi.gun",
+        "pk": 22,
+        "fields": {
+            "name": "3-line",
+            "type": "Sniper Rifle"
+        }
+    },
+    {
+        "model": "callofdutyapi.gun",
+        "pk": 23,
+        "fields": {
+            "name": "Kar98",
+            "type": "Sniper Rifle"
+        }
+    },
+    {
+        "model": "callofdutyapi.gun",
+        "pk": 24,
+        "fields": {
+            "name": "Einhorn Revolving",
+            "type": "Shotgun"
+        }
+    },
+    {
+        "model": "callofdutyapi.gun",
+        "pk": 25,
+        "fields": {
+            "name": "Combat Shotgun",
+            "type": "Shotgun"
+        }
+    },
+    {
+        "model": "callofdutyapi.gun",
+        "pk": 26,
+        "fields": {
+            "name": "GraceyAuto",
+            "type": "Shotgun"
+        }
+    },
+    {
+        "model": "callofdutyapi.gun",
+        "pk": 27,
+        "fields": {
+            "name": "Double Barrel",
+            "type": "Shotgun"
         }
     }
 ]

@@ -1,0 +1,5348 @@
+[
+    {
+        "model":"callofdutyapi.gunstat",
+        "pk": 1,
+        "fields":{
+        "gun_id":1,
+        "stat_id":1,
+        "value":29.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 2,
+        "fields":{
+        "gun_id":1,
+        "stat_id":2,
+        "value":2000.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 3,
+        "fields":{
+        "gun_id":1,
+        "stat_id":3,
+        "value":600.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 4,
+        "fields":{
+        "gun_id":1,
+        "stat_id":4,
+        "value":43.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 5,
+        "fields":{
+        "gun_id":1,
+        "stat_id":5,
+        "value":885.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 6,
+        "fields":{
+        "gun_id":1,
+        "stat_id":6,
+        "value":20.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 7,
+        "fields":{
+        "gun_id":1,
+        "stat_id":7,
+        "value":10.7
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 8,
+        "fields":{
+        "gun_id":1,
+        "stat_id":8,
+        "value":6.5
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 9,
+        "fields":{
+        "gun_id":1,
+        "stat_id":9,
+        "value":217.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 10,
+        "fields":{
+        "gun_id":1,
+        "stat_id":10,
+        "value":230.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 11,
+        "fields":{
+        "gun_id":1,
+        "stat_id":11,
+        "value":66.7
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 12,
+        "fields":{
+        "gun_id":1,
+        "stat_id":12,
+        "value":27.2
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 13,
+        "fields":{
+        "gun_id":1,
+        "stat_id":13,
+        "value":2000.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 14,
+        "fields":{
+        "gun_id":1,
+        "stat_id":14,
+        "value":24.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 15,
+        "fields":{
+        "gun_id":1,
+        "stat_id":15,
+        "value":0.2
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 16,
+        "fields":{
+        "gun_id":1,
+        "stat_id":16,
+        "value":7.5
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 17,
+        "fields":{
+        "gun_id":1,
+        "stat_id":17,
+        "value":3.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 18,
+        "fields":{
+        "gun_id":1,
+        "stat_id":18,
+        "value":30.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 19,
+        "fields":{
+        "gun_id":1,
+        "stat_id":19,
+        "value":90.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 20,
+        "fields":{
+        "gun_id":1,
+        "stat_id":20,
+        "value":180.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 21,
+        "fields":{
+        "gun_id":1,
+        "stat_id":21,
+        "value":15.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 22,
+        "fields":{
+        "gun_id":1,
+        "stat_id":22,
+        "value":2.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 23,
+        "fields":{
+        "gun_id":2,
+        "stat_id":1,
+        "value":22.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 24,
+        "fields":{
+        "gun_id":2,
+        "stat_id":2,
+        "value":2550.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 25,
+        "fields":{
+        "gun_id":2,
+        "stat_id":3,
+        "value":833.3
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 26,
+        "fields":{
+        "gun_id":2,
+        "stat_id":4,
+        "value":33.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 27,
+        "fields":{
+        "gun_id":2,
+        "stat_id":5,
+        "value":885.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 28,
+        "fields":{
+        "gun_id":2,
+        "stat_id":6,
+        "value":15.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 29,
+        "fields":{
+        "gun_id":2,
+        "stat_id":7,
+        "value":10.7
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 30,
+        "fields":{
+        "gun_id":2,
+        "stat_id":8,
+        "value":6.3
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 31,
+        "fields":{
+        "gun_id":2,
+        "stat_id":9,
+        "value":250.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 32,
+        "fields":{
+        "gun_id":2,
+        "stat_id":10,
+        "value":265.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 33,
+        "fields":{
+        "gun_id":2,
+        "stat_id":11,
+        "value":58.9
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 34,
+        "fields":{
+        "gun_id":2,
+        "stat_id":12,
+        "value":24.5
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 35,
+        "fields":{
+        "gun_id":2,
+        "stat_id":13,
+        "value":2000.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 36,
+        "fields":{
+        "gun_id":2,
+        "stat_id":14,
+        "value":27.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 37,
+        "fields":{
+        "gun_id":2,
+        "stat_id":15,
+        "value":0.2
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 38,
+        "fields":{
+        "gun_id":2,
+        "stat_id":16,
+        "value":7.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 39,
+        "fields":{
+        "gun_id":2,
+        "stat_id":17,
+        "value":2.9
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 40,
+        "fields":{
+        "gun_id":2,
+        "stat_id":18,
+        "value":25.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 41,
+        "fields":{
+        "gun_id":2,
+        "stat_id":19,
+        "value":100.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 42,
+        "fields":{
+        "gun_id":2,
+        "stat_id":20,
+        "value":150.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 43,
+        "fields":{
+        "gun_id":2,
+        "stat_id":21,
+        "value":12.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 44,
+        "fields":{
+        "gun_id":2,
+        "stat_id":22,
+        "value":2.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 45,
+        "fields":{
+        "gun_id":3,
+        "stat_id":1,
+        "value":29.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 46,
+        "fields":{
+        "gun_id":3,
+        "stat_id":2,
+        "value":2550.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 47,
+        "fields":{
+        "gun_id":3,
+        "stat_id":3,
+        "value":588.2
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 48,
+        "fields":{
+        "gun_id":3,
+        "stat_id":4,
+        "value":43.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 49,
+        "fields":{
+        "gun_id":3,
+        "stat_id":5,
+        "value":885.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 50,
+        "fields":{
+        "gun_id":3,
+        "stat_id":6,
+        "value":20.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 51,
+        "fields":{
+        "gun_id":3,
+        "stat_id":7,
+        "value":10.4
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 52,
+        "fields":{
+        "gun_id":3,
+        "stat_id":8,
+        "value":6.5
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 53,
+        "fields":{
+        "gun_id":3,
+        "stat_id":9,
+        "value":250.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 54,
+        "fields":{
+        "gun_id":3,
+        "stat_id":10,
+        "value":250.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 55,
+        "fields":{
+        "gun_id":3,
+        "stat_id":11,
+        "value":68.8
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 56,
+        "fields":{
+        "gun_id":3,
+        "stat_id":12,
+        "value":38.9
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 57,
+        "fields":{
+        "gun_id":3,
+        "stat_id":13,
+        "value":1800.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 58,
+        "fields":{
+        "gun_id":3,
+        "stat_id":14,
+        "value":24.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 59,
+        "fields":{
+        "gun_id":3,
+        "stat_id":15,
+        "value":0.2
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 60,
+        "fields":{
+        "gun_id":3,
+        "stat_id":16,
+        "value":9.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 61,
+        "fields":{
+        "gun_id":3,
+        "stat_id":17,
+        "value":2.9
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 62,
+        "fields":{
+        "gun_id":3,
+        "stat_id":18,
+        "value":20.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 63,
+        "fields":{
+        "gun_id":3,
+        "stat_id":19,
+        "value":60.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 64,
+        "fields":{
+        "gun_id":3,
+        "stat_id":20,
+        "value":120.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 65,
+        "fields":{
+        "gun_id":3,
+        "stat_id":21,
+        "value":32.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 66,
+        "fields":{
+        "gun_id":3,
+        "stat_id":22,
+        "value":2.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 67,
+        "fields":{
+        "gun_id":4,
+        "stat_id":1,
+        "value":40.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 68,
+        "fields":{
+        "gun_id":4,
+        "stat_id":2,
+        "value":2550.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 69,
+        "fields":{
+        "gun_id":4,
+        "stat_id":3,
+        "value":400.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 70,
+        "fields":{
+        "gun_id":4,
+        "stat_id":4,
+        "value":60.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 71,
+        "fields":{
+        "gun_id":4,
+        "stat_id":5,
+        "value":885.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 72,
+        "fields":{
+        "gun_id":4,
+        "stat_id":6,
+        "value":27.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 73,
+        "fields":{
+        "gun_id":4,
+        "stat_id":7,
+        "value":10.4
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 74,
+        "fields":{
+        "gun_id":4,
+        "stat_id":8,
+        "value":6.4
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 75,
+        "fields":{
+        "gun_id":4,
+        "stat_id":9,
+        "value":267.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 76,
+        "fields":{
+        "gun_id":4,
+        "stat_id":10,
+        "value":315.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 77,
+        "fields":{
+        "gun_id":4,
+        "stat_id":11,
+        "value":77.1
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 78,
+        "fields":{
+        "gun_id":4,
+        "stat_id":12,
+        "value":1.3
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 79,
+        "fields":{
+        "gun_id":4,
+        "stat_id":13,
+        "value":900.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 80,
+        "fields":{
+        "gun_id":4,
+        "stat_id":14,
+        "value":24.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 81,
+        "fields":{
+        "gun_id":4,
+        "stat_id":15,
+        "value":0.2
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 82,
+        "fields":{
+        "gun_id":4,
+        "stat_id":16,
+        "value":8.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 83,
+        "fields":{
+        "gun_id":4,
+        "stat_id":17,
+        "value":2.9
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 84,
+        "fields":{
+        "gun_id":4,
+        "stat_id":18,
+        "value":20.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 85,
+        "fields":{
+        "gun_id":4,
+        "stat_id":19,
+        "value":80.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 86,
+        "fields":{
+        "gun_id":4,
+        "stat_id":20,
+        "value":120.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 87,
+        "fields":{
+        "gun_id":4,
+        "stat_id":21,
+        "value":40.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 88,
+        "fields":{
+        "gun_id":4,
+        "stat_id":22,
+        "value":2.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 89,
+        "fields":{
+        "gun_id":5,
+        "stat_id":1,
+        "value":24.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 90,
+        "fields":{
+        "gun_id":5,
+        "stat_id":2,
+        "value":1350.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 91,
+        "fields":{
+        "gun_id":5,
+        "stat_id":3,
+        "value":923.1
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 92,
+        "fields":{
+        "gun_id":5,
+        "stat_id":4,
+        "value":40.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 93,
+        "fields":{
+        "gun_id":5,
+        "stat_id":5,
+        "value":885.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 94,
+        "fields":{
+        "gun_id":5,
+        "stat_id":6,
+        "value":17.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 95,
+        "fields":{
+        "gun_id":5,
+        "stat_id":7,
+        "value":10.7
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 96,
+        "fields":{
+        "gun_id":5,
+        "stat_id":8,
+        "value":6.2
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 97,
+        "fields":{
+        "gun_id":5,
+        "stat_id":9,
+        "value":250.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 98,
+        "fields":{
+        "gun_id":5,
+        "stat_id":10,
+        "value":263.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 99,
+        "fields":{
+        "gun_id":5,
+        "stat_id":11,
+        "value":40.7
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 100,
+        "fields":{
+        "gun_id":5,
+        "stat_id":12,
+        "value":64.8
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 101,
+        "fields":{
+        "gun_id":5,
+        "stat_id":13,
+        "value":1800.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 102,
+        "fields":{
+        "gun_id":5,
+        "stat_id":14,
+        "value":24.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 103,
+        "fields":{
+        "gun_id":5,
+        "stat_id":15,
+        "value":0.2
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 104,
+        "fields":{
+        "gun_id":5,
+        "stat_id":16,
+        "value":8.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 105,
+        "fields":{
+        "gun_id":5,
+        "stat_id":17,
+        "value":2.8
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 106,
+        "fields":{
+        "gun_id":5,
+        "stat_id":18,
+        "value":30.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 107,
+        "fields":{
+        "gun_id":5,
+        "stat_id":19,
+        "value":90.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 108,
+        "fields":{
+        "gun_id":5,
+        "stat_id":20,
+        "value":180.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 109,
+        "fields":{
+        "gun_id":5,
+        "stat_id":21,
+        "value":12.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 110,
+        "fields":{
+        "gun_id":5,
+        "stat_id":22,
+        "value":2.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 111,
+        "fields":{
+        "gun_id":6,
+        "stat_id":1,
+        "value":40.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 112,
+        "fields":{
+        "gun_id":6,
+        "stat_id":2,
+        "value":2000.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 113,
+        "fields":{
+        "gun_id":6,
+        "stat_id":3,
+        "value":500.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 114,
+        "fields":{
+        "gun_id":6,
+        "stat_id":4,
+        "value":60.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 115,
+        "fields":{
+        "gun_id":6,
+        "stat_id":5,
+        "value":885.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 116,
+        "fields":{
+        "gun_id":6,
+        "stat_id":6,
+        "value":27.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 117,
+        "fields":{
+        "gun_id":6,
+        "stat_id":7,
+        "value":10.7
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 118,
+        "fields":{
+        "gun_id":6,
+        "stat_id":8,
+        "value":6.5
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 119,
+        "fields":{
+        "gun_id":6,
+        "stat_id":9,
+        "value":250.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 120,
+        "fields":{
+        "gun_id":6,
+        "stat_id":10,
+        "value":300.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 121,
+        "fields":{
+        "gun_id":6,
+        "stat_id":11,
+        "value":49.9
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 122,
+        "fields":{
+        "gun_id":6,
+        "stat_id":12,
+        "value":93.4
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 123,
+        "fields":{
+        "gun_id":6,
+        "stat_id":13,
+        "value":1800.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 124,
+        "fields":{
+        "gun_id":6,
+        "stat_id":14,
+        "value":27.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 125,
+        "fields":{
+        "gun_id":6,
+        "stat_id":15,
+        "value":0.2
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 126,
+        "fields":{
+        "gun_id":6,
+        "stat_id":16,
+        "value":8.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 127,
+        "fields":{
+        "gun_id":6,
+        "stat_id":17,
+        "value":3.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 128,
+        "fields":{
+        "gun_id":6,
+        "stat_id":18,
+        "value":30.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 129,
+        "fields":{
+        "gun_id":6,
+        "stat_id":19,
+        "value":90.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 130,
+        "fields":{
+        "gun_id":6,
+        "stat_id":20,
+        "value":180.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 131,
+        "fields":{
+        "gun_id":6,
+        "stat_id":21,
+        "value":40.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 132,
+        "fields":{
+        "gun_id":6,
+        "stat_id":22,
+        "value":2.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 133,
+        "fields":{
+        "gun_id":7,
+        "stat_id":1,
+        "value":28.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 134,
+        "fields":{
+        "gun_id":7,
+        "stat_id":2,
+        "value":1100.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 135,
+        "fields":{
+        "gun_id":7,
+        "stat_id":3,
+        "value":750.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 136,
+        "fields":{
+        "gun_id":7,
+        "stat_id":4,
+        "value":42.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 137,
+        "fields":{
+        "gun_id":7,
+        "stat_id":5,
+        "value":885.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 138,
+        "fields":{
+        "gun_id":7,
+        "stat_id":6,
+        "value":19.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 139,
+        "fields":{
+        "gun_id":7,
+        "stat_id":7,
+        "value":10.8
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 140,
+        "fields":{
+        "gun_id":7,
+        "stat_id":8,
+        "value":7.9
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 141,
+        "fields":{
+        "gun_id":7,
+        "stat_id":9,
+        "value":217.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 142,
+        "fields":{
+        "gun_id":7,
+        "stat_id":10,
+        "value":190.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 143,
+        "fields":{
+        "gun_id":7,
+        "stat_id":11,
+        "value":67.9
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 144,
+        "fields":{
+        "gun_id":7,
+        "stat_id":12,
+        "value":11.1
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 145,
+        "fields":{
+        "gun_id":7,
+        "stat_id":13,
+        "value":1800.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 146,
+        "fields":{
+        "gun_id":7,
+        "stat_id":14,
+        "value":27.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 147,
+        "fields":{
+        "gun_id":7,
+        "stat_id":15,
+        "value":0.2
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 148,
+        "fields":{
+        "gun_id":7,
+        "stat_id":16,
+        "value":7.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 149,
+        "fields":{
+        "gun_id":7,
+        "stat_id":17,
+        "value":2.9
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 150,
+        "fields":{
+        "gun_id":7,
+        "stat_id":18,
+        "value":30.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 151,
+        "fields":{
+        "gun_id":7,
+        "stat_id":19,
+        "value":90.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 152,
+        "fields":{
+        "gun_id":7,
+        "stat_id":20,
+        "value":180.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 153,
+        "fields":{
+        "gun_id":7,
+        "stat_id":21,
+        "value":12.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 154,
+        "fields":{
+        "gun_id":7,
+        "stat_id":22,
+        "value":2.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 155,
+        "fields":{
+        "gun_id":8,
+        "stat_id":1,
+        "value":32.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 156,
+        "fields":{
+        "gun_id":8,
+        "stat_id":2,
+        "value":600.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 157,
+        "fields":{
+        "gun_id":8,
+        "stat_id":3,
+        "value":600.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 158,
+        "fields":{
+        "gun_id":8,
+        "stat_id":4,
+        "value":49.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 159,
+        "fields":{
+        "gun_id":8,
+        "stat_id":5,
+        "value":353.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 160,
+        "fields":{
+        "gun_id":8,
+        "stat_id":6,
+        "value":20.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 161,
+        "fields":{
+        "gun_id":8,
+        "stat_id":7,
+        "value":11.1
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 162,
+        "fields":{
+        "gun_id":8,
+        "stat_id":8,
+        "value":7.3
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 163,
+        "fields":{
+        "gun_id":8,
+        "stat_id":9,
+        "value":167.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 164,
+        "fields":{
+        "gun_id":8,
+        "stat_id":10,
+        "value":200.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 165,
+        "fields":{
+        "gun_id":8,
+        "stat_id":11,
+        "value":73.8
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 166,
+        "fields":{
+        "gun_id":8,
+        "stat_id":12,
+        "value":46.6
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 167,
+        "fields":{
+        "gun_id":8,
+        "stat_id":13,
+        "value":2000.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 168,
+        "fields":{
+        "gun_id":8,
+        "stat_id":14,
+        "value":35.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 169,
+        "fields":{
+        "gun_id":8,
+        "stat_id":15,
+        "value":0.2
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 170,
+        "fields":{
+        "gun_id":8,
+        "stat_id":16,
+        "value":6.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 171,
+        "fields":{
+        "gun_id":8,
+        "stat_id":17,
+        "value":2.5
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 172,
+        "fields":{
+        "gun_id":8,
+        "stat_id":18,
+        "value":32.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 173,
+        "fields":{
+        "gun_id":8,
+        "stat_id":19,
+        "value":96.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 174,
+        "fields":{
+        "gun_id":8,
+        "stat_id":20,
+        "value":192.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 175,
+        "fields":{
+        "gun_id":8,
+        "stat_id":21,
+        "value":6.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 176,
+        "fields":{
+        "gun_id":8,
+        "stat_id":22,
+        "value":2.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 177,
+        "fields":{
+        "gun_id":9,
+        "stat_id":1,
+        "value":29.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 178,
+        "fields":{
+        "gun_id":9,
+        "stat_id":2,
+        "value":600.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 179,
+        "fields":{
+        "gun_id":9,
+        "stat_id":3,
+        "value":666.7
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 180,
+        "fields":{
+        "gun_id":9,
+        "stat_id":4,
+        "value":42.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 181,
+        "fields":{
+        "gun_id":9,
+        "stat_id":5,
+        "value":353.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 182,
+        "fields":{
+        "gun_id":9,
+        "stat_id":6,
+        "value":18.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 183,
+        "fields":{
+        "gun_id":9,
+        "stat_id":7,
+        "value":11.4
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 184,
+        "fields":{
+        "gun_id":9,
+        "stat_id":8,
+        "value":8.9
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 185,
+        "fields":{
+        "gun_id":9,
+        "stat_id":9,
+        "value":167.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 186,
+        "fields":{
+        "gun_id":9,
+        "stat_id":10,
+        "value":180.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 187,
+        "fields":{
+        "gun_id":9,
+        "stat_id":11,
+        "value":95.2
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 188,
+        "fields":{
+        "gun_id":9,
+        "stat_id":12,
+        "value":12.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 189,
+        "fields":{
+        "gun_id":9,
+        "stat_id":13,
+        "value":2000.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 190,
+        "fields":{
+        "gun_id":9,
+        "stat_id":14,
+        "value":63.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 191,
+        "fields":{
+        "gun_id":9,
+        "stat_id":15,
+        "value":0.2
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 192,
+        "fields":{
+        "gun_id":9,
+        "stat_id":16,
+        "value":6.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 193,
+        "fields":{
+        "gun_id":9,
+        "stat_id":17,
+        "value":2.6
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 194,
+        "fields":{
+        "gun_id":9,
+        "stat_id":18,
+        "value":32.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 195,
+        "fields":{
+        "gun_id":9,
+        "stat_id":19,
+        "value":96.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 196,
+        "fields":{
+        "gun_id":9,
+        "stat_id":20,
+        "value":192.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 197,
+        "fields":{
+        "gun_id":9,
+        "stat_id":21,
+        "value":7.2
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 198,
+        "fields":{
+        "gun_id":9,
+        "stat_id":22,
+        "value":2.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 199,
+        "fields":{
+        "gun_id":10,
+        "stat_id":1,
+        "value":25.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 200,
+        "fields":{
+        "gun_id":10,
+        "stat_id":2,
+        "value":600.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 201,
+        "fields":{
+        "gun_id":10,
+        "stat_id":3,
+        "value":800.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 202,
+        "fields":{
+        "gun_id":10,
+        "stat_id":4,
+        "value":37.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 203,
+        "fields":{
+        "gun_id":10,
+        "stat_id":5,
+        "value":353.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 204,
+        "fields":{
+        "gun_id":10,
+        "stat_id":6,
+        "value":16.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 205,
+        "fields":{
+        "gun_id":10,
+        "stat_id":7,
+        "value":11.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 206,
+        "fields":{
+        "gun_id":10,
+        "stat_id":8,
+        "value":7.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 207,
+        "fields":{
+        "gun_id":10,
+        "stat_id":9,
+        "value":200.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 208,
+        "fields":{
+        "gun_id":10,
+        "stat_id":10,
+        "value":230.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 209,
+        "fields":{
+        "gun_id":10,
+        "stat_id":11,
+        "value":42.3
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 210,
+        "fields":{
+        "gun_id":10,
+        "stat_id":12,
+        "value":19.7
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 211,
+        "fields":{
+        "gun_id":10,
+        "stat_id":13,
+        "value":1300.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 212,
+        "fields":{
+        "gun_id":10,
+        "stat_id":14,
+        "value":107.8
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 213,
+        "fields":{
+        "gun_id":10,
+        "stat_id":15,
+        "value":0.2
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 214,
+        "fields":{
+        "gun_id":10,
+        "stat_id":16,
+        "value":6.4
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 215,
+        "fields":{
+        "gun_id":10,
+        "stat_id":17,
+        "value":3.4
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 216,
+        "fields":{
+        "gun_id":10,
+        "stat_id":18,
+        "value":50.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 217,
+        "fields":{
+        "gun_id":10,
+        "stat_id":19,
+        "value":150.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 218,
+        "fields":{
+        "gun_id":10,
+        "stat_id":20,
+        "value":300.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 219,
+        "fields":{
+        "gun_id":10,
+        "stat_id":21,
+        "value":14.4
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 220,
+        "fields":{
+        "gun_id":10,
+        "stat_id":22,
+        "value":2.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 221,
+        "fields":{
+        "gun_id":11,
+        "stat_id":1,
+        "value":43.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 222,
+        "fields":{
+        "gun_id":11,
+        "stat_id":2,
+        "value":800.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 223,
+        "fields":{
+        "gun_id":11,
+        "stat_id":3,
+        "value":500.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 224,
+        "fields":{
+        "gun_id":11,
+        "stat_id":4,
+        "value":49.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 225,
+        "fields":{
+        "gun_id":11,
+        "stat_id":5,
+        "value":353.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 226,
+        "fields":{
+        "gun_id":11,
+        "stat_id":6,
+        "value":21.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 227,
+        "fields":{
+        "gun_id":11,
+        "stat_id":7,
+        "value":10.9
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 228,
+        "fields":{
+        "gun_id":11,
+        "stat_id":8,
+        "value":6.4
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 229,
+        "fields":{
+        "gun_id":11,
+        "stat_id":9,
+        "value":167.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 230,
+        "fields":{
+        "gun_id":11,
+        "stat_id":10,
+        "value":200.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 231,
+        "fields":{
+        "gun_id":11,
+        "stat_id":11,
+        "value":88.8
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 232,
+        "fields":{
+        "gun_id":11,
+        "stat_id":12,
+        "value":41.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 233,
+        "fields":{
+        "gun_id":11,
+        "stat_id":13,
+        "value":2000.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 234,
+        "fields":{
+        "gun_id":11,
+        "stat_id":14,
+        "value":63.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 235,
+        "fields":{
+        "gun_id":11,
+        "stat_id":15,
+        "value":0.2
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 236,
+        "fields":{
+        "gun_id":11,
+        "stat_id":16,
+        "value":6.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 237,
+        "fields":{
+        "gun_id":11,
+        "stat_id":17,
+        "value":2.8
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 238,
+        "fields":{
+        "gun_id":11,
+        "stat_id":18,
+        "value":33.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 239,
+        "fields":{
+        "gun_id":11,
+        "stat_id":19,
+        "value":75.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 240,
+        "fields":{
+        "gun_id":11,
+        "stat_id":20,
+        "value":150.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 241,
+        "fields":{
+        "gun_id":11,
+        "stat_id":21,
+        "value":6.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 242,
+        "fields":{
+        "gun_id":11,
+        "stat_id":22,
+        "value":2.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 243,
+        "fields":{
+        "gun_id":12,
+        "stat_id":1,
+        "value":22.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 244,
+        "fields":{
+        "gun_id":12,
+        "stat_id":2,
+        "value":800.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 245,
+        "fields":{
+        "gun_id":12,
+        "stat_id":3,
+        "value":750.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 246,
+        "fields":{
+        "gun_id":12,
+        "stat_id":4,
+        "value":35.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 247,
+        "fields":{
+        "gun_id":12,
+        "stat_id":5,
+        "value":353.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 248,
+        "fields":{
+        "gun_id":12,
+        "stat_id":6,
+        "value":14.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 249,
+        "fields":{
+        "gun_id":12,
+        "stat_id":7,
+        "value":11.1
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 250,
+        "fields":{
+        "gun_id":12,
+        "stat_id":8,
+        "value":7.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 251,
+        "fields":{
+        "gun_id":12,
+        "stat_id":9,
+        "value":167.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 252,
+        "fields":{
+        "gun_id":12,
+        "stat_id":10,
+        "value":240.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 253,
+        "fields":{
+        "gun_id":12,
+        "stat_id":11,
+        "value":71.7
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 254,
+        "fields":{
+        "gun_id":12,
+        "stat_id":12,
+        "value":13.8
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 255,
+        "fields":{
+        "gun_id":12,
+        "stat_id":13,
+        "value":2000.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 256,
+        "fields":{
+        "gun_id":12,
+        "stat_id":14,
+        "value":63.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 257,
+        "fields":{
+        "gun_id":12,
+        "stat_id":15,
+        "value":0.2
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 258,
+        "fields":{
+        "gun_id":12,
+        "stat_id":16,
+        "value":6.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 259,
+        "fields":{
+        "gun_id":12,
+        "stat_id":17,
+        "value":2.8
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 260,
+        "fields":{
+        "gun_id":12,
+        "stat_id":18,
+        "value":30.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 261,
+        "fields":{
+        "gun_id":12,
+        "stat_id":19,
+        "value":90.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 262,
+        "fields":{
+        "gun_id":12,
+        "stat_id":20,
+        "value":180.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 263,
+        "fields":{
+        "gun_id":12,
+        "stat_id":21,
+        "value":6.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 264,
+        "fields":{
+        "gun_id":12,
+        "stat_id":22,
+        "value":2.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 265,
+        "fields":{
+        "gun_id":13,
+        "stat_id":1,
+        "value":27.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 266,
+        "fields":{
+        "gun_id":13,
+        "stat_id":2,
+        "value":500.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 267,
+        "fields":{
+        "gun_id":13,
+        "stat_id":3,
+        "value":952.4
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 268,
+        "fields":{
+        "gun_id":13,
+        "stat_id":4,
+        "value":40.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 269,
+        "fields":{
+        "gun_id":13,
+        "stat_id":5,
+        "value":353.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 270,
+        "fields":{
+        "gun_id":13,
+        "stat_id":6,
+        "value":17.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 271,
+        "fields":{
+        "gun_id":13,
+        "stat_id":7,
+        "value":11.1
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 272,
+        "fields":{
+        "gun_id":13,
+        "stat_id":8,
+        "value":7.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 273,
+        "fields":{
+        "gun_id":13,
+        "stat_id":9,
+        "value":200.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 274,
+        "fields":{
+        "gun_id":13,
+        "stat_id":10,
+        "value":205.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 275,
+        "fields":{
+        "gun_id":13,
+        "stat_id":11,
+        "value":51.7
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 276,
+        "fields":{
+        "gun_id":13,
+        "stat_id":12,
+        "value":61.7
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 277,
+        "fields":{
+        "gun_id":13,
+        "stat_id":13,
+        "value":1900.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 278,
+        "fields":{
+        "gun_id":13,
+        "stat_id":14,
+        "value":63.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 279,
+        "fields":{
+        "gun_id":13,
+        "stat_id":15,
+        "value":0.2
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 280,
+        "fields":{
+        "gun_id":13,
+        "stat_id":16,
+        "value":7.5
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 281,
+        "fields":{
+        "gun_id":13,
+        "stat_id":17,
+        "value":2.5
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 282,
+        "fields":{
+        "gun_id":13,
+        "stat_id":18,
+        "value":35.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 283,
+        "fields":{
+        "gun_id":13,
+        "stat_id":19,
+        "value":105.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 284,
+        "fields":{
+        "gun_id":13,
+        "stat_id":20,
+        "value":175.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 285,
+        "fields":{
+        "gun_id":13,
+        "stat_id":21,
+        "value":6.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 286,
+        "fields":{
+        "gun_id":13,
+        "stat_id":22,
+        "value":2.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 287,
+        "fields":{
+        "gun_id":14,
+        "stat_id":1,
+        "value":20.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 288,
+        "fields":{
+        "gun_id":14,
+        "stat_id":2,
+        "value":2000.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 289,
+        "fields":{
+        "gun_id":14,
+        "stat_id":3,
+        "value":1034.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 290,
+        "fields":{
+        "gun_id":14,
+        "stat_id":4,
+        "value":34.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 291,
+        "fields":{
+        "gun_id":14,
+        "stat_id":5,
+        "value":930.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 292,
+        "fields":{
+        "gun_id":14,
+        "stat_id":6,
+        "value":17.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 293,
+        "fields":{
+        "gun_id":14,
+        "stat_id":7,
+        "value":9.9
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 294,
+        "fields":{
+        "gun_id":14,
+        "stat_id":8,
+        "value":5.3
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 295,
+        "fields":{
+        "gun_id":14,
+        "stat_id":9,
+        "value":300.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 296,
+        "fields":{
+        "gun_id":14,
+        "stat_id":10,
+        "value":325.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 297,
+        "fields":{
+        "gun_id":14,
+        "stat_id":11,
+        "value":36.4
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 298,
+        "fields":{
+        "gun_id":14,
+        "stat_id":12,
+        "value":9.6
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 299,
+        "fields":{
+        "gun_id":14,
+        "stat_id":13,
+        "value":1500.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 300,
+        "fields":{
+        "gun_id":14,
+        "stat_id":14,
+        "value":-14.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 301,
+        "fields":{
+        "gun_id":14,
+        "stat_id":15,
+        "value":0.2
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 302,
+        "fields":{
+        "gun_id":14,
+        "stat_id":16,
+        "value":9.5
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 303,
+        "fields":{
+        "gun_id":14,
+        "stat_id":17,
+        "value":7.7
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 304,
+        "fields":{
+        "gun_id":14,
+        "stat_id":18,
+        "value":125.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 305,
+        "fields":{
+        "gun_id":14,
+        "stat_id":19,
+        "value":250.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 306,
+        "fields":{
+        "gun_id":14,
+        "stat_id":20,
+        "value":375.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 307,
+        "fields":{
+        "gun_id":14,
+        "stat_id":21,
+        "value":32.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 308,
+        "fields":{
+        "gun_id":14,
+        "stat_id":22,
+        "value":2.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 309,
+        "fields":{
+        "gun_id":15,
+        "stat_id":1,
+        "value":30.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 310,
+        "fields":{
+        "gun_id":15,
+        "stat_id":2,
+        "value":2000.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 311,
+        "fields":{
+        "gun_id":15,
+        "stat_id":3,
+        "value":800.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 312,
+        "fields":{
+        "gun_id":15,
+        "stat_id":4,
+        "value":45.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 313,
+        "fields":{
+        "gun_id":15,
+        "stat_id":5,
+        "value":930.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 314,
+        "fields":{
+        "gun_id":15,
+        "stat_id":6,
+        "value":26.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 315,
+        "fields":{
+        "gun_id":15,
+        "stat_id":7,
+        "value":10.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 316,
+        "fields":{
+        "gun_id":15,
+        "stat_id":8,
+        "value":5.3
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 317,
+        "fields":{
+        "gun_id":15,
+        "stat_id":9,
+        "value":300.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 318,
+        "fields":{
+        "gun_id":15,
+        "stat_id":10,
+        "value":440.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 319,
+        "fields":{
+        "gun_id":15,
+        "stat_id":11,
+        "value":24.7
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 320,
+        "fields":{
+        "gun_id":15,
+        "stat_id":12,
+        "value":33.6
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 321,
+        "fields":{
+        "gun_id":15,
+        "stat_id":13,
+        "value":1400.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 322,
+        "fields":{
+        "gun_id":15,
+        "stat_id":14,
+        "value":-14.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 323,
+        "fields":{
+        "gun_id":15,
+        "stat_id":15,
+        "value":0.2
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 324,
+        "fields":{
+        "gun_id":15,
+        "stat_id":16,
+        "value":10.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 325,
+        "fields":{
+        "gun_id":15,
+        "stat_id":17,
+        "value":6.5
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 326,
+        "fields":{
+        "gun_id":15,
+        "stat_id":18,
+        "value":63.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 327,
+        "fields":{
+        "gun_id":15,
+        "stat_id":19,
+        "value":126.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 328,
+        "fields":{
+        "gun_id":15,
+        "stat_id":20,
+        "value":252.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 329,
+        "fields":{
+        "gun_id":15,
+        "stat_id":21,
+        "value":32.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 330,
+        "fields":{
+        "gun_id":15,
+        "stat_id":22,
+        "value":2.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 331,
+        "fields":{
+        "gun_id":16,
+        "stat_id":1,
+        "value":24.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 332,
+        "fields":{
+        "gun_id":16,
+        "stat_id":2,
+        "value":1350.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 333,
+        "fields":{
+        "gun_id":16,
+        "stat_id":3,
+        "value":750.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 334,
+        "fields":{
+        "gun_id":16,
+        "stat_id":4,
+        "value":48.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 335,
+        "fields":{
+        "gun_id":16,
+        "stat_id":5,
+        "value":930.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 336,
+        "fields":{
+        "gun_id":16,
+        "stat_id":6,
+        "value":21.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 337,
+        "fields":{
+        "gun_id":16,
+        "stat_id":7,
+        "value":10.7
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 338,
+        "fields":{
+        "gun_id":16,
+        "stat_id":8,
+        "value":6.4
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 339,
+        "fields":{
+        "gun_id":16,
+        "stat_id":9,
+        "value":300.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 340,
+        "fields":{
+        "gun_id":16,
+        "stat_id":10,
+        "value":325.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 341,
+        "fields":{
+        "gun_id":16,
+        "stat_id":11,
+        "value":43.2
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 342,
+        "fields":{
+        "gun_id":16,
+        "stat_id":12,
+        "value":13.1
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 343,
+        "fields":{
+        "gun_id":16,
+        "stat_id":13,
+        "value":1325.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 344,
+        "fields":{
+        "gun_id":16,
+        "stat_id":14,
+        "value":-14.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 345,
+        "fields":{
+        "gun_id":16,
+        "stat_id":15,
+        "value":0.2
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 346,
+        "fields":{
+        "gun_id":16,
+        "stat_id":16,
+        "value":9.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 347,
+        "fields":{
+        "gun_id":16,
+        "stat_id":17,
+        "value":4.5
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 348,
+        "fields":{
+        "gun_id":16,
+        "stat_id":18,
+        "value":30.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 349,
+        "fields":{
+        "gun_id":16,
+        "stat_id":19,
+        "value":90.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 350,
+        "fields":{
+        "gun_id":16,
+        "stat_id":20,
+        "value":180.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 351,
+        "fields":{
+        "gun_id":16,
+        "stat_id":21,
+        "value":12.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 352,
+        "fields":{
+        "gun_id":16,
+        "stat_id":22,
+        "value":2.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 353,
+        "fields":{
+        "gun_id":17,
+        "stat_id":1,
+        "value":34.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 354,
+        "fields":{
+        "gun_id":17,
+        "stat_id":2,
+        "value":2550.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 355,
+        "fields":{
+        "gun_id":17,
+        "stat_id":3,
+        "value":600.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 356,
+        "fields":{
+        "gun_id":17,
+        "stat_id":4,
+        "value":51.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 357,
+        "fields":{
+        "gun_id":17,
+        "stat_id":5,
+        "value":930.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 358,
+        "fields":{
+        "gun_id":17,
+        "stat_id":6,
+        "value":29.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 359,
+        "fields":{
+        "gun_id":17,
+        "stat_id":7,
+        "value":10.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 360,
+        "fields":{
+        "gun_id":17,
+        "stat_id":8,
+        "value":5.3
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 361,
+        "fields":{
+        "gun_id":17,
+        "stat_id":9,
+        "value":300.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 362,
+        "fields":{
+        "gun_id":17,
+        "stat_id":10,
+        "value":440.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 363,
+        "fields":{
+        "gun_id":17,
+        "stat_id":11,
+        "value":11.7
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 364,
+        "fields":{
+        "gun_id":17,
+        "stat_id":12,
+        "value":63.2
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 365,
+        "fields":{
+        "gun_id":17,
+        "stat_id":13,
+        "value":1100.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 366,
+        "fields":{
+        "gun_id":17,
+        "stat_id":14,
+        "value":-13.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 367,
+        "fields":{
+        "gun_id":17,
+        "stat_id":15,
+        "value":0.2
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 368,
+        "fields":{
+        "gun_id":17,
+        "stat_id":16,
+        "value":10.5
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 369,
+        "fields":{
+        "gun_id":17,
+        "stat_id":17,
+        "value":5.3
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 370,
+        "fields":{
+        "gun_id":17,
+        "stat_id":18,
+        "value":30.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 371,
+        "fields":{
+        "gun_id":17,
+        "stat_id":19,
+        "value":90.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 372,
+        "fields":{
+        "gun_id":17,
+        "stat_id":20,
+        "value":180.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 373,
+        "fields":{
+        "gun_id":17,
+        "stat_id":21,
+        "value":32.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 374,
+        "fields":{
+        "gun_id":17,
+        "stat_id":22,
+        "value":2.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 375,
+        "fields":{
+        "gun_id":18,
+        "stat_id":1,
+        "value":60.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 376,
+        "fields":{
+        "gun_id":18,
+        "stat_id":2,
+        "value":2500.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 377,
+        "fields":{
+        "gun_id":18,
+        "stat_id":3,
+        "value":300.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 378,
+        "fields":{
+        "gun_id":18,
+        "stat_id":4,
+        "value":90.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 379,
+        "fields":{
+        "gun_id":18,
+        "stat_id":5,
+        "value":930.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 380,
+        "fields":{
+        "gun_id":18,
+        "stat_id":6,
+        "value":120.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 381,
+        "fields":{
+        "gun_id":18,
+        "stat_id":7,
+        "value":10.7
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 382,
+        "fields":{
+        "gun_id":18,
+        "stat_id":8,
+        "value":4.3
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 383,
+        "fields":{
+        "gun_id":18,
+        "stat_id":9,
+        "value":300.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 384,
+        "fields":{
+        "gun_id":18,
+        "stat_id":10,
+        "value":330.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 385,
+        "fields":{
+        "gun_id":18,
+        "stat_id":11,
+        "value":111.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 386,
+        "fields":{
+        "gun_id":18,
+        "stat_id":12,
+        "value":0.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 387,
+        "fields":{
+        "gun_id":18,
+        "stat_id":13,
+        "value":766.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 388,
+        "fields":{
+        "gun_id":18,
+        "stat_id":14,
+        "value":33.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 389,
+        "fields":{
+        "gun_id":18,
+        "stat_id":15,
+        "value":0.6
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 390,
+        "fields":{
+        "gun_id":18,
+        "stat_id":16,
+        "value":9.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 391,
+        "fields":{
+        "gun_id":18,
+        "stat_id":17,
+        "value":3.7
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 392,
+        "fields":{
+        "gun_id":18,
+        "stat_id":18,
+        "value":8.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 393,
+        "fields":{
+        "gun_id":18,
+        "stat_id":19,
+        "value":32.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 394,
+        "fields":{
+        "gun_id":18,
+        "stat_id":20,
+        "value":48.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 395,
+        "fields":{
+        "gun_id":18,
+        "stat_id":21,
+        "value":13.2
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 396,
+        "fields":{
+        "gun_id":18,
+        "stat_id":22,
+        "value":2.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 397,
+        "fields":{
+        "gun_id":19,
+        "stat_id":1,
+        "value":57.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 398,
+        "fields":{
+        "gun_id":19,
+        "stat_id":2,
+        "value":9999.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 399,
+        "fields":{
+        "gun_id":19,
+        "stat_id":3,
+        "value":200.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 400,
+        "fields":{
+        "gun_id":19,
+        "stat_id":4,
+        "value":114.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 401,
+        "fields":{
+        "gun_id":19,
+        "stat_id":5,
+        "value":930.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 402,
+        "fields":{
+        "gun_id":19,
+        "stat_id":6,
+        "value":114.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 403,
+        "fields":{
+        "gun_id":19,
+        "stat_id":7,
+        "value":10.5
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 404,
+        "fields":{
+        "gun_id":19,
+        "stat_id":8,
+        "value":4.3
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 405,
+        "fields":{
+        "gun_id":19,
+        "stat_id":9,
+        "value":300.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 406,
+        "fields":{
+        "gun_id":19,
+        "stat_id":10,
+        "value":450.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 407,
+        "fields":{
+        "gun_id":19,
+        "stat_id":11,
+        "value":135.9
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 408,
+        "fields":{
+        "gun_id":19,
+        "stat_id":12,
+        "value":63.4
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 409,
+        "fields":{
+        "gun_id":19,
+        "stat_id":13,
+        "value":1000.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 410,
+        "fields":{
+        "gun_id":19,
+        "stat_id":14,
+        "value":33.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 411,
+        "fields":{
+        "gun_id":19,
+        "stat_id":15,
+        "value":0.6
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 412,
+        "fields":{
+        "gun_id":19,
+        "stat_id":16,
+        "value":9.5
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 413,
+        "fields":{
+        "gun_id":19,
+        "stat_id":17,
+        "value":3.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 414,
+        "fields":{
+        "gun_id":19,
+        "stat_id":18,
+        "value":10.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 415,
+        "fields":{
+        "gun_id":19,
+        "stat_id":19,
+        "value":30.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 416,
+        "fields":{
+        "gun_id":19,
+        "stat_id":20,
+        "value":60.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 417,
+        "fields":{
+        "gun_id":19,
+        "stat_id":21,
+        "value":48.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 418,
+        "fields":{
+        "gun_id":19,
+        "stat_id":22,
+        "value":2.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 419,
+        "fields":{
+        "gun_id":20,
+        "stat_id":1,
+        "value":34.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 420,
+        "fields":{
+        "gun_id":20,
+        "stat_id":2,
+        "value":9999.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 421,
+        "fields":{
+        "gun_id":20,
+        "stat_id":3,
+        "value":600.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 422,
+        "fields":{
+        "gun_id":20,
+        "stat_id":4,
+        "value":51.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 423,
+        "fields":{
+        "gun_id":20,
+        "stat_id":5,
+        "value":930.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 424,
+        "fields":{
+        "gun_id":20,
+        "stat_id":6,
+        "value":68.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 425,
+        "fields":{
+        "gun_id":20,
+        "stat_id":7,
+        "value":10.4
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 426,
+        "fields":{
+        "gun_id":20,
+        "stat_id":8,
+        "value":7.4
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 427,
+        "fields":{
+        "gun_id":20,
+        "stat_id":9,
+        "value":300.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 428,
+        "fields":{
+        "gun_id":20,
+        "stat_id":10,
+        "value":350.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 429,
+        "fields":{
+        "gun_id":20,
+        "stat_id":11,
+        "value":52.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 430,
+        "fields":{
+        "gun_id":20,
+        "stat_id":12,
+        "value":30.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 431,
+        "fields":{
+        "gun_id":20,
+        "stat_id":13,
+        "value":850.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 432,
+        "fields":{
+        "gun_id":20,
+        "stat_id":14,
+        "value":33.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 433,
+        "fields":{
+        "gun_id":20,
+        "stat_id":15,
+        "value":0.6
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 434,
+        "fields":{
+        "gun_id":20,
+        "stat_id":16,
+        "value":8.5
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 435,
+        "fields":{
+        "gun_id":20,
+        "stat_id":17,
+        "value":2.8
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 436,
+        "fields":{
+        "gun_id":20,
+        "stat_id":18,
+        "value":10.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 437,
+        "fields":{
+        "gun_id":20,
+        "stat_id":19,
+        "value":30.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 438,
+        "fields":{
+        "gun_id":20,
+        "stat_id":20,
+        "value":60.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 439,
+        "fields":{
+        "gun_id":20,
+        "stat_id":21,
+        "value":12.2
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 440,
+        "fields":{
+        "gun_id":20,
+        "stat_id":22,
+        "value":2.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 441,
+        "fields":{
+        "gun_id":21,
+        "stat_id":1,
+        "value":92.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 442,
+        "fields":{
+        "gun_id":21,
+        "stat_id":2,
+        "value":1350.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 443,
+        "fields":{
+        "gun_id":21,
+        "stat_id":3,
+        "value":40.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 444,
+        "fields":{
+        "gun_id":21,
+        "stat_id":4,
+        "value":184.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 445,
+        "fields":{
+        "gun_id":21,
+        "stat_id":5,
+        "value":930.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 446,
+        "fields":{
+        "gun_id":21,
+        "stat_id":6,
+        "value":184.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 447,
+        "fields":{
+        "gun_id":21,
+        "stat_id":7,
+        "value":10.4
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 448,
+        "fields":{
+        "gun_id":21,
+        "stat_id":8,
+        "value":4.5
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 449,
+        "fields":{
+        "gun_id":21,
+        "stat_id":9,
+        "value":333.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 450,
+        "fields":{
+        "gun_id":21,
+        "stat_id":10,
+        "value":541.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 451,
+        "fields":{
+        "gun_id":21,
+        "stat_id":11,
+        "value":104.9
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 452,
+        "fields":{
+        "gun_id":21,
+        "stat_id":12,
+        "value":124.9
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 453,
+        "fields":{
+        "gun_id":21,
+        "stat_id":13,
+        "value":1200.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 454,
+        "fields":{
+        "gun_id":21,
+        "stat_id":14,
+        "value":7.2
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 455,
+        "fields":{
+        "gun_id":21,
+        "stat_id":15,
+        "value":0.9
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 456,
+        "fields":{
+        "gun_id":21,
+        "stat_id":16,
+        "value":14.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 457,
+        "fields":{
+        "gun_id":21,
+        "stat_id":17,
+        "value":6.3
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 458,
+        "fields":{
+        "gun_id":21,
+        "stat_id":18,
+        "value":5.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 459,
+        "fields":{
+        "gun_id":21,
+        "stat_id":19,
+        "value":15.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 460,
+        "fields":{
+        "gun_id":21,
+        "stat_id":20,
+        "value":20.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 461,
+        "fields":{
+        "gun_id":21,
+        "stat_id":21,
+        "value":32.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 462,
+        "fields":{
+        "gun_id":21,
+        "stat_id":22,
+        "value":2.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 463,
+        "fields":{
+        "gun_id":22,
+        "stat_id":1,
+        "value":92.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 464,
+        "fields":{
+        "gun_id":22,
+        "stat_id":2,
+        "value":16000.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 465,
+        "fields":{
+        "gun_id":22,
+        "stat_id":3,
+        "value":40.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 466,
+        "fields":{
+        "gun_id":22,
+        "stat_id":4,
+        "value":184.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 467,
+        "fields":{
+        "gun_id":22,
+        "stat_id":5,
+        "value":930.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 468,
+        "fields":{
+        "gun_id":22,
+        "stat_id":6,
+        "value":184.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 469,
+        "fields":{
+        "gun_id":22,
+        "stat_id":7,
+        "value":9.9
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 470,
+        "fields":{
+        "gun_id":22,
+        "stat_id":8,
+        "value":3.5
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 471,
+        "fields":{
+        "gun_id":22,
+        "stat_id":9,
+        "value":333.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 472,
+        "fields":{
+        "gun_id":22,
+        "stat_id":10,
+        "value":649.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 473,
+        "fields":{
+        "gun_id":22,
+        "stat_id":11,
+        "value":191.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 474,
+        "fields":{
+        "gun_id":22,
+        "stat_id":12,
+        "value":69.7
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 475,
+        "fields":{
+        "gun_id":22,
+        "stat_id":13,
+        "value":1800.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 476,
+        "fields":{
+        "gun_id":22,
+        "stat_id":14,
+        "value":7.2
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 477,
+        "fields":{
+        "gun_id":22,
+        "stat_id":15,
+        "value":0.9
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 478,
+        "fields":{
+        "gun_id":22,
+        "stat_id":16,
+        "value":19.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 479,
+        "fields":{
+        "gun_id":22,
+        "stat_id":17,
+        "value":6.5
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 480,
+        "fields":{
+        "gun_id":22,
+        "stat_id":18,
+        "value":5.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 481,
+        "fields":{
+        "gun_id":22,
+        "stat_id":19,
+        "value":15.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 482,
+        "fields":{
+        "gun_id":22,
+        "stat_id":20,
+        "value":30.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 483,
+        "fields":{
+        "gun_id":22,
+        "stat_id":21,
+        "value":32.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 484,
+        "fields":{
+        "gun_id":22,
+        "stat_id":22,
+        "value":2.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 485,
+        "fields":{
+        "gun_id":23,
+        "stat_id":1,
+        "value":92.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 486,
+        "fields":{
+        "gun_id":23,
+        "stat_id":2,
+        "value":16000.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 487,
+        "fields":{
+        "gun_id":23,
+        "stat_id":3,
+        "value":46.2
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 488,
+        "fields":{
+        "gun_id":23,
+        "stat_id":4,
+        "value":184.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 489,
+        "fields":{
+        "gun_id":23,
+        "stat_id":5,
+        "value":930.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 490,
+        "fields":{
+        "gun_id":23,
+        "stat_id":6,
+        "value":184.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 491,
+        "fields":{
+        "gun_id":23,
+        "stat_id":7,
+        "value":10.2
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 492,
+        "fields":{
+        "gun_id":23,
+        "stat_id":8,
+        "value":4.3
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 493,
+        "fields":{
+        "gun_id":23,
+        "stat_id":9,
+        "value":333.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 494,
+        "fields":{
+        "gun_id":23,
+        "stat_id":10,
+        "value":595.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 495,
+        "fields":{
+        "gun_id":23,
+        "stat_id":11,
+        "value":150.8
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 496,
+        "fields":{
+        "gun_id":23,
+        "stat_id":12,
+        "value":62.4
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 497,
+        "fields":{
+        "gun_id":23,
+        "stat_id":13,
+        "value":1400.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 498,
+        "fields":{
+        "gun_id":23,
+        "stat_id":14,
+        "value":7.2
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 499,
+        "fields":{
+        "gun_id":23,
+        "stat_id":15,
+        "value":0.9
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 500,
+        "fields":{
+        "gun_id":23,
+        "stat_id":16,
+        "value":17.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 501,
+        "fields":{
+        "gun_id":23,
+        "stat_id":17,
+        "value":6.4
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 502,
+        "fields":{
+        "gun_id":23,
+        "stat_id":18,
+        "value":5.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 503,
+        "fields":{
+        "gun_id":23,
+        "stat_id":19,
+        "value":15.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 504,
+        "fields":{
+        "gun_id":23,
+        "stat_id":20,
+        "value":30.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 505,
+        "fields":{
+        "gun_id":23,
+        "stat_id":21,
+        "value":32.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 506,
+        "fields":{
+        "gun_id":23,
+        "stat_id":22,
+        "value":2.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 507,
+        "fields":{
+        "gun_id":24,
+        "stat_id":1,
+        "value":50.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 508,
+        "fields":{
+        "gun_id":24,
+        "stat_id":2,
+        "value":200.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 509,
+        "fields":{
+        "gun_id":24,
+        "stat_id":3,
+        "value":300.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 510,
+        "fields":{
+        "gun_id":24,
+        "stat_id":4,
+        "value":55.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 511,
+        "fields":{
+        "gun_id":24,
+        "stat_id":5,
+        "value":365.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 512,
+        "fields":{
+        "gun_id":24,
+        "stat_id":6,
+        "value":50.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 513,
+        "fields":{
+        "gun_id":24,
+        "stat_id":7,
+        "value":10.4
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 514,
+        "fields":{
+        "gun_id":24,
+        "stat_id":8,
+        "value":6.7
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 515,
+        "fields":{
+        "gun_id":24,
+        "stat_id":9,
+        "value":283.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 516,
+        "fields":{
+        "gun_id":24,
+        "stat_id":10,
+        "value":300.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 517,
+        "fields":{
+        "gun_id":24,
+        "stat_id":11,
+        "value":49.6
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 518,
+        "fields":{
+        "gun_id":24,
+        "stat_id":12,
+        "value":157.4
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 519,
+        "fields":{
+        "gun_id":24,
+        "stat_id":13,
+        "value":1500.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 520,
+        "fields":{
+        "gun_id":24,
+        "stat_id":14,
+        "value":24.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 521,
+        "fields":{
+        "gun_id":24,
+        "stat_id":15,
+        "value":0.1
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 522,
+        "fields":{
+        "gun_id":24,
+        "stat_id":16,
+        "value":8.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 523,
+        "fields":{
+        "gun_id":24,
+        "stat_id":17,
+        "value":8.9
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 524,
+        "fields":{
+        "gun_id":24,
+        "stat_id":18,
+        "value":5.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 525,
+        "fields":{
+        "gun_id":24,
+        "stat_id":19,
+        "value":15.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 526,
+        "fields":{
+        "gun_id":24,
+        "stat_id":20,
+        "value":30.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 527,
+        "fields":{
+        "gun_id":24,
+        "stat_id":21,
+        "value":6.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 528,
+        "fields":{
+        "gun_id":24,
+        "stat_id":22,
+        "value":2.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 529,
+        "fields":{
+        "gun_id":25,
+        "stat_id":1,
+        "value":100.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 530,
+        "fields":{
+        "gun_id":25,
+        "stat_id":2,
+        "value":250.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 531,
+        "fields":{
+        "gun_id":25,
+        "stat_id":3,
+        "value":81.9
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 532,
+        "fields":{
+        "gun_id":25,
+        "stat_id":4,
+        "value":110.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 533,
+        "fields":{
+        "gun_id":25,
+        "stat_id":5,
+        "value":365.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 534,
+        "fields":{
+        "gun_id":25,
+        "stat_id":6,
+        "value":100.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 535,
+        "fields":{
+        "gun_id":25,
+        "stat_id":7,
+        "value":10.4
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 536,
+        "fields":{
+        "gun_id":25,
+        "stat_id":8,
+        "value":6.7
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 537,
+        "fields":{
+        "gun_id":25,
+        "stat_id":9,
+        "value":283.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 538,
+        "fields":{
+        "gun_id":25,
+        "stat_id":10,
+        "value":250.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 539,
+        "fields":{
+        "gun_id":25,
+        "stat_id":11,
+        "value":231.1
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 540,
+        "fields":{
+        "gun_id":25,
+        "stat_id":12,
+        "value":107.8
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 541,
+        "fields":{
+        "gun_id":25,
+        "stat_id":13,
+        "value":1500.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 542,
+        "fields":{
+        "gun_id":25,
+        "stat_id":14,
+        "value":23.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 543,
+        "fields":{
+        "gun_id":25,
+        "stat_id":15,
+        "value":0.1
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 544,
+        "fields":{
+        "gun_id":25,
+        "stat_id":16,
+        "value":8.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 545,
+        "fields":{
+        "gun_id":25,
+        "stat_id":17,
+        "value":5.5
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 546,
+        "fields":{
+        "gun_id":25,
+        "stat_id":18,
+        "value":5.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 547,
+        "fields":{
+        "gun_id":25,
+        "stat_id":19,
+        "value":15.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 548,
+        "fields":{
+        "gun_id":25,
+        "stat_id":20,
+        "value":30.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 549,
+        "fields":{
+        "gun_id":25,
+        "stat_id":21,
+        "value":6.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 550,
+        "fields":{
+        "gun_id":25,
+        "stat_id":22,
+        "value":2.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 551,
+        "fields":{
+        "gun_id":26,
+        "stat_id":1,
+        "value":50.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 552,
+        "fields":{
+        "gun_id":26,
+        "stat_id":2,
+        "value":50.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 553,
+        "fields":{
+        "gun_id":26,
+        "stat_id":3,
+        "value":342.9
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 554,
+        "fields":{
+        "gun_id":26,
+        "stat_id":4,
+        "value":55.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 555,
+        "fields":{
+        "gun_id":26,
+        "stat_id":5,
+        "value":365.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 556,
+        "fields":{
+        "gun_id":26,
+        "stat_id":6,
+        "value":50.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 557,
+        "fields":{
+        "gun_id":26,
+        "stat_id":7,
+        "value":10.7
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 558,
+        "fields":{
+        "gun_id":26,
+        "stat_id":8,
+        "value":6.3
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 559,
+        "fields":{
+        "gun_id":26,
+        "stat_id":9,
+        "value":283.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 560,
+        "fields":{
+        "gun_id":26,
+        "stat_id":10,
+        "value":300.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 561,
+        "fields":{
+        "gun_id":26,
+        "stat_id":11,
+        "value":206.8
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 562,
+        "fields":{
+        "gun_id":26,
+        "stat_id":12,
+        "value":36.5
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 563,
+        "fields":{
+        "gun_id":26,
+        "stat_id":13,
+        "value":1300.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 564,
+        "fields":{
+        "gun_id":26,
+        "stat_id":14,
+        "value":24.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 565,
+        "fields":{
+        "gun_id":26,
+        "stat_id":15,
+        "value":0.1
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 566,
+        "fields":{
+        "gun_id":26,
+        "stat_id":16,
+        "value":8.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 567,
+        "fields":{
+        "gun_id":26,
+        "stat_id":17,
+        "value":5.8
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 568,
+        "fields":{
+        "gun_id":26,
+        "stat_id":18,
+        "value":5.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 569,
+        "fields":{
+        "gun_id":26,
+        "stat_id":19,
+        "value":15.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 570,
+        "fields":{
+        "gun_id":26,
+        "stat_id":20,
+        "value":30.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 571,
+        "fields":{
+        "gun_id":26,
+        "stat_id":21,
+        "value":6.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 572,
+        "fields":{
+        "gun_id":26,
+        "stat_id":22,
+        "value":2.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 573,
+        "fields":{
+        "gun_id":27,
+        "stat_id":1,
+        "value":20.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 574,
+        "fields":{
+        "gun_id":27,
+        "stat_id":2,
+        "value":200.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 575,
+        "fields":{
+        "gun_id":27,
+        "stat_id":3,
+        "value":300.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 576,
+        "fields":{
+        "gun_id":27,
+        "stat_id":4,
+        "value":22.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 577,
+        "fields":{
+        "gun_id":27,
+        "stat_id":5,
+        "value":365.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 578,
+        "fields":{
+        "gun_id":27,
+        "stat_id":6,
+        "value":20.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 579,
+        "fields":{
+        "gun_id":27,
+        "stat_id":7,
+        "value":10.9
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 580,
+        "fields":{
+        "gun_id":27,
+        "stat_id":8,
+        "value":6.2
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 581,
+        "fields":{
+        "gun_id":27,
+        "stat_id":9,
+        "value":283.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 582,
+        "fields":{
+        "gun_id":27,
+        "stat_id":10,
+        "value":350.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 583,
+        "fields":{
+        "gun_id":27,
+        "stat_id":11,
+        "value":173.9
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 584,
+        "fields":{
+        "gun_id":27,
+        "stat_id":12,
+        "value":46.6
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 585,
+        "fields":{
+        "gun_id":27,
+        "stat_id":13,
+        "value":1500.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 586,
+        "fields":{
+        "gun_id":27,
+        "stat_id":14,
+        "value":24.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 587,
+        "fields":{
+        "gun_id":27,
+        "stat_id":15,
+        "value":0.1
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 588,
+        "fields":{
+        "gun_id":27,
+        "stat_id":16,
+        "value":7.5
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 589,
+        "fields":{
+        "gun_id":27,
+        "stat_id":17,
+        "value":3.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 590,
+        "fields":{
+        "gun_id":27,
+        "stat_id":18,
+        "value":2.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 591,
+        "fields":{
+        "gun_id":27,
+        "stat_id":19,
+        "value":24.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 592,
+        "fields":{
+        "gun_id":27,
+        "stat_id":20,
+        "value":32.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 593,
+        "fields":{
+        "gun_id":27,
+        "stat_id":21,
+        "value":6.0
+        }
+        },
+        {
+        "model":"callofdutyapi.gunstat",
+        "pk": 594,
+        "fields":{
+        "gun_id":27,
+        "stat_id":22,
+        "value":2.0
+        }
+        }
+]
