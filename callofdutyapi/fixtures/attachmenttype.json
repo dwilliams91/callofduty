@@ -1,0 +1,16 @@
+[
+    {
+        "model": "callofdutyapi.attachmenttype",
+        "pk": 1,
+        "fields": {
+            "name": "Muzzle"
+        }
+    },
+    {
+        "model": "callofdutyapi.attachmenttype",
+        "pk": 2,
+        "fields":{
+            "name":"Underbarrel"
+        }
+    }
+]

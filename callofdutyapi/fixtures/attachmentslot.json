@@ -7,5 +7,14 @@
             "createdclass_id": 1,
             "attachment_id":1
         }
+    },
+    {
+        "model": "callofdutyapi.attachmentslot",
+        "pk": 2,
+        "fields": {
+            "name": "Underbarrel",
+            "createdclass_id": 1,
+            "attachment_id":2
+        }
     }
 ]

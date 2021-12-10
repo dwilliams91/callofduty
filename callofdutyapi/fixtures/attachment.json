@@ -3,7 +3,17 @@
         "model": "callofdutyapi.attachment",
         "pk": 1,
         "fields": {
-            "name": "F8 Stablizer"
+            "name": "F8 Stablizer",
+            "attachmenttype_id":1
+        }
+    },
+    {
+        "model": "callofdutyapi.attachment",
+        "pk": 2,
+        "fields":{
+            "name":"M1941 Hand Stop",
+            "attachmenttype_id":2
+
         }
     }
 ]
