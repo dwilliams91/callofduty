@@ -1,0 +1,9 @@
+[
+    {
+        "model": "callofdutyapi.attachment",
+        "pk": 1,
+        "fields": {
+            "name": "F8 Stablizer"
+        }
+    }
+]

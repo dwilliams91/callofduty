@@ -1,0 +1,29 @@
+[
+    {
+        "model": "callofdutyapi.attachmentstat",
+        "pk": 1,
+        "fields": {
+            "attachment_id":1,
+            "stat_id":2,
+            "effect": ".1"
+        }
+    },
+    {
+        "model": "callofdutyapi.attachmentstat",
+        "pk": 1,
+        "fields": {
+            "attachment_id":1,
+            "stat_id":9,
+            "effect": "-.046"
+        }
+    },
+    {
+        "model": "callofdutyapi.attachmentstat",
+        "pk": 1,
+        "fields": {
+            "attachment_id":1,
+            "stat_id":12,
+            "effect": ".071"
+        }
+    }
+]

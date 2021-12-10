@@ -1,0 +1,10 @@
+[
+    {
+        "model": "callofdutyapi.createdclass",
+        "pk": 1,
+        "fields": {
+            "name": "Custom Class 1",
+            "base_gun": 1
+    }
+    }
+]

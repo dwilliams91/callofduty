@@ -1,0 +1,11 @@
+[
+    {
+        "model": "callofdutyapi.attachmentslot",
+        "pk": 1,
+        "fields": {
+            "name": "Muzzle",
+            "createdclass_id": 1,
+            "attachment_id":1
+        }
+    }
+]

@@ -16,15 +16,19 @@ Including another URLconf
 from django.contrib import admin
 from django.conf.urls import include
 from django.urls import path
+from callofdutyapi.models.createdclass import CreatedClass
 from callofdutyapi.views import Guns
+from callofdutyapi.views import CreatedClasses
 from rest_framework import routers
 
 router = routers.DefaultRouter(trailing_slash=False)
 router.register(r'guns', Guns, 'gun')
+router.register(r'createdclasses', CreatedClasses, 'createdclass')
 
 
 urlpatterns = [
     path('', include(router.urls)),
     path('guns', Guns ),
+    path('createdclasses', CreatedClasses),
     path('admin/', admin.site.urls),
 ]
